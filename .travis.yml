@@ -6,5 +6,5 @@ directories:
  - node_modules
 script:
  - cd boozebuddiez
- - npm install
+ - npm instal
  - npm run test:unit
